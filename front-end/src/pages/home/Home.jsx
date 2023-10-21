@@ -1,8 +1,17 @@
-import React from "react";
-import "./home.scss";
+
+import Stories from "../../compoents/stories/Stories";
+import "./home.scss"
 
 const Home = () => {
-  return <div>Home</div>;
-};
+  return (
+    <div className="home">
+
+      
+      <Stories />
+      
+     
+    </div>
+  )
+}
 
 export default Home;
