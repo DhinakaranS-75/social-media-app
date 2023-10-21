@@ -1,4 +1,5 @@
 
+import Posts from "../../compoents/posts/Posts";
 import Stories from "../../compoents/stories/Stories";
 import "./home.scss"
 
@@ -8,6 +9,7 @@ const Home = () => {
 
       
       <Stories />
+      <Posts />
       
      
     </div>

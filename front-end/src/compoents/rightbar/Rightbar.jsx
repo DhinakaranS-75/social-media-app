@@ -13,7 +13,7 @@ const Rightbar = () => {
                 src="https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=600"
                 alt=""
               />
-              <span>Dhinakaran Dhina</span>
+              <span>Dhinakaran</span>
             </div>
             <div className="buttons">
               <button>Follow</button>
@@ -26,7 +26,7 @@ const Rightbar = () => {
                 src="https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=600"
                 alt=""
               />
-              <span>Dhinakaran Dhina</span>
+              <span>Dhinakaran</span>
             </div>
             <div className="buttons">
               <button>Follow</button>
